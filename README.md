@@ -1,6 +1,6 @@
-# Tech Explorer 🚀
+# Products Explorer 🚀
 
-A simple product listing app built with React. Click a button to see random tech products with smooth animations!
+A simple product listing app built with React. Click a button to see random products with smooth animations!
 
 ## What You'll Learn 📚
 
