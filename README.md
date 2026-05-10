@@ -1,3 +1,4 @@
+
 # Products Explorer 🚀
 
 A simple product listing app built with React. Click a button to see random products with smooth animations!
